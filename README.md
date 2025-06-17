@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A Frontend Developer and Designer</h3>
 
-<br>- 👨‍💻  I’m currently working on projects with Typescript<br>- 💬  Ask me about Frontend Development<br>- 👨‍💻 All of my projects are available in my [portfolio](https://portfolio-vercel-puce.vercel.app/)<br>- 🤝  Looking forward to collaboration on react projects <br>- 📫  Reach me by email **chrisidoko0017@gmail.com** or dm me on <a href="https://twitter.com/Chris_devxo">Twitter</a><br>- ⚡  Fun fact I love building stuffs and am an excellent team player
+<br>- 👨‍💻  I’m currently working on projects with Typescript, Next.js and Tailwind<br>- 💬  Ask me about Frontend Development<br>- 👨‍💻 Check out my portfolio to know more about me [portfolio](https://www.notion.so/Hi-I-m-Chris-Onoja-Idoko-1c58dd04571e809d9538ff3bfcee9f57?source=copy_link)<br>- 🤝  Looking forward to collaboration on react projects <br>- 📫  Reach me by email **chrisidoko0017@gmail.com** or dm me on <a href="https://twitter.com/Chris_devxo">Twitter</a><br>- ⚡  Fun fact I love building stuffs and am an excellent team player
 
 
 ## 🌐 Socials:
